@@ -4,6 +4,8 @@
 
 **This repository contains Josh Crisostomo's Project 1 for stats 220**
 
+This repository contains index.html and report.html for Stats 220 Project 1
+
 *A little bit about the author*
 
 - His name is Josh
