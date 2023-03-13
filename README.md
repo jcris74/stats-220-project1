@@ -1,6 +1,6 @@
 # **stats-220-project1**
 
-### ***Created by Josh Crisostomo***
+### ***Created by Josh Crisóstomo***
 
 **This repository contains Josh Crisostomo's Project 1 for stats 220**
 
