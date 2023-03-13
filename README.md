@@ -4,7 +4,7 @@
 
 **This repository contains Josh Crisostomo's Project 1 for stats 220**
 
-***A little bit about the author***
+*A little bit about the author*
 
 - His name is Josh
 
@@ -12,7 +12,7 @@
 
 - Studying Data Science
 
-- Accidentally spent $2k+ on Magic: The Gathering cards over the last summer
+- *Accidentally* spent $2k+ on Magic: The Gathering cards over the last summer
 
 Check out my links :hot_pepper: :wink: 
 
